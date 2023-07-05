@@ -21,4 +21,4 @@ I am **12** and I like to **code**.
 ## My contacts
 
 - [Telegram](https://t.me/A2020GK)
-- Discord - A2020GK#2465
+- Discord - A2020GK
