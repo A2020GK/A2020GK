@@ -1,13 +1,6 @@
-<h1 align="center">Welcome!</h1>
+# Hi there 👋
+<b>I'm Antony (he/him)</b> - I try to create projects that look cool enough, but are simple enough for me >:)
 
-## Who am I?
+~ School №192, Moscow, Russia
 
-Hello, my name is **Antony**.
-
-I am **14** and I like to **code**.
-
-# What did I try to learn
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,vscode,discord,webpack,ruby,python,c,cpp,github,git,arduino,markdown,linux)](https://skillicons.dev)
-
-Discord: A2020GK
+[![I love this!](https://skillicons.dev/icons?i=html,css,js,php,sqlite,react,vscode,vite,webpack,linux,ubuntu,bash,docker,postgres,arduino,c,cpp,py&perline=6)](https://skillicons.dev)
